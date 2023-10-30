@@ -1,0 +1,40 @@
+2023-10-24 18:02:41,069 - root - INFO - ------- Test_01_register ---------
+2023-10-24 18:02:41,070 - root - INFO - --------verify Test title ----------
+2023-10-24 18:02:47,530 - root - INFO - --------verify Test registration ----------
+2023-10-24 18:04:05,350 - root - INFO - ------- Test_01_register ---------
+2023-10-24 18:04:05,350 - root - INFO - --------verify Test title ----------
+2023-10-24 18:04:21,589 - root - INFO - --------verify Test registration ----------
+2023-10-24 18:04:30,516 - root - ERROR - -------- passwords doesnt matched ----------
+2023-10-24 18:06:17,378 - root - INFO - ------- Test_01_register ---------
+2023-10-24 18:06:17,378 - root - INFO - --------verify Test title ----------
+2023-10-24 18:06:23,888 - root - INFO - --------verify Test registration ----------
+2023-10-24 18:06:32,624 - root - INFO - -------- passwords matched ----------
+2023-10-24 18:09:49,177 - root - INFO - ------- Test_01_register ---------
+2023-10-24 18:09:49,178 - root - INFO - --------verify Test title ----------
+2023-10-24 18:09:55,186 - root - INFO - --------verify Test registration ----------
+2023-10-24 18:10:04,427 - root - INFO - -------- passwords matched ----------
+2023-10-24 18:15:26,923 - root - INFO - ------- Test_01_register ---------
+2023-10-24 18:15:26,924 - root - INFO - --------verify Test title ----------
+2023-10-24 18:15:32,608 - root - INFO - --------verify Test registration ----------
+2023-10-24 18:15:40,571 - root - INFO - -------- passwords matched ----------
+2023-10-24 18:15:40,677 - root - ERROR - -------- select checkbox ----------
+2023-10-24 18:15:41,868 - root - ERROR - -------- select continue button ----------
+2023-10-24 18:31:31,598 - root - INFO - ------- Test_01_register ---------
+2023-10-24 18:31:31,599 - root - INFO - --------verify Test title ----------
+2023-10-24 18:31:38,152 - root - INFO - --------verify Test registration ----------
+2023-10-24 18:31:48,881 - root - INFO - -------- passwords matched ----------
+2023-10-24 19:06:52,887 - root - INFO - ------- Test_01_register ---------
+2023-10-24 19:06:52,887 - root - INFO - --------verify Test title ----------
+2023-10-24 19:06:58,871 - root - INFO - --------verify Test registration ----------
+2023-10-24 19:07:07,402 - root - INFO - -------- passwords matched ----------
+2023-10-24 19:09:49,266 - root - INFO - ------- Test_01_register ---------
+2023-10-24 19:09:49,266 - root - INFO - --------verify Test title ----------
+2023-10-24 19:13:09,425 - root - INFO - --------verify Test registration ----------
+2023-10-24 19:13:09,494 - root - INFO - ------- Test_01_register ---------
+2023-10-24 19:13:09,494 - root - INFO - --------verify Test title ----------
+2023-10-24 19:13:18,893 - root - INFO - -------- passwords matched ----------
+2023-10-24 19:14:54,439 - root - INFO - --------verify Test registration ----------
+2023-10-24 19:19:25,046 - root - INFO - --------verify Test registration ----------
+2023-10-24 19:19:25,240 - root - INFO - ------- Test_01_register ---------
+2023-10-24 19:19:25,240 - root - INFO - --------verify Test title ----------
+2023-10-24 19:19:34,832 - root - INFO - -------- passwords matched ----------
